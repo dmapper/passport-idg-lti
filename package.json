@@ -1,0 +1,32 @@
+{
+  "name": "passport-idg-lti",
+  "version": "0.0.1",
+  "description": "Passport-based LTI authorization for our IDG project",
+  "keywords": [
+    "passport",
+    "strategy",
+    "lti"
+  ],
+  "author": {
+    "name": "Artur Zayats",
+    "email": "zag2art@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dmapper/passport-idg-lti.git"
+  },
+  "bugs": {
+    "url": "http://github.com/dmapper/passport-idg-lti/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "ims-lti": "0.2.x",
+    "passport-strategy": "1.0.x"
+  },
+  "main": "./lib"
+}
