@@ -25,7 +25,7 @@
     }
   ],
   "dependencies": {
-    "ims-lti": "git://github.com/zag2art/ims-lti",
+    "ims-lti": "git://github.com/dmapper/ims-lti",
     "passport-strategy": "1.0.x"
   },
   "main": "./lib"
