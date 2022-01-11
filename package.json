@@ -1,6 +1,6 @@
 {
   "name": "passport-idg-lti",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Passport-based LTI authorization for our IDG project",
   "keywords": [
     "passport",
