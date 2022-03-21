@@ -25,7 +25,7 @@
     }
   ],
   "dependencies": {
-    "ims-lti": "^3.0.2",
+    "ims-lti": "https://github.com/dmapper/ims-lti",
     "passport-strategy": "1.0.x"
   },
   "main": "./lib"
