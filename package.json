@@ -1,5 +1,5 @@
 {
-  "name": "passport-idg-lti",
+  "name": "@dmapper/passport-idg-lti",
   "version": "3.0.0",
   "description": "Passport-based LTI authorization for our IDG project",
   "keywords": [
