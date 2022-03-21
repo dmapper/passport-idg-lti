@@ -1,6 +1,6 @@
 {
-  "name": "passport-idg-lti",
-  "version": "2.0.2",
+  "name": "@dmapper/passport-idg-lti",
+  "version": "3.0.0",
   "description": "Passport-based LTI authorization for our IDG project",
   "keywords": [
     "passport",
@@ -25,7 +25,7 @@
     }
   ],
   "dependencies": {
-    "ims-lti": "https://github.com/dmapper/ims-lti",
+    "ims-lti": "^3.0.2",
     "passport-strategy": "1.0.x"
   },
   "main": "./lib"
